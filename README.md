@@ -56,7 +56,7 @@
 
 ## 🔮 Establish Contact
 > *The veil is thin. Speak, and I may answer.*
-<div align="left">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=2e8b57)](https://www.linkedin.com/in/ezequiel-abrego/)
 </div>
