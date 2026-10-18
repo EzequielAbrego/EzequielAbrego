@@ -1,4 +1,14 @@
-## Hi there 👋
+## Welcome.
+
+
+
+
+
+### 🪬 Sigils
+<img width="195" height="195" alt="professional-data-engineer-certification" src="https://github.com/user-attachments/assets/c9a609d6-0b3b-4bec-b133-476659817fc2" />
+<img width="195" height="195" alt="ux-basic" src="https://github.com/user-attachments/assets/783ef2a9-d574-4813-b6c5-8520f2fa575a" />
+
+- [Verify on Credly](https://www.credly.com/badges/22d69d4b-2977-4ff2-bb12-2418a04c8048/public_url)
 
 <!--
 **EzequielAbrego/EzequielAbrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
