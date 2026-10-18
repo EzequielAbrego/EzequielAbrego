@@ -1,20 +1,23 @@
-# Welcome.
-<!--
-![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:2e8b57&height=240&text=Ph%27nglui%20mglw%27nafh&fontSize=48&fontColor=c9d1d9&animation=twinkling&fontAlignY=40&desc=Cthulhu%20R%27lyeh%20wgah%27nagl%20fhtagn&descAlignY=62&descSize=18)
+<div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b3a2d,100:2e8b57&height=220&section=header&text=EZE&fontSize=70&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Summoner%20of%20Forbidden%20Code&descAlignY=58&descSize=20)
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=1500&color=C9D1D9&center=true&vCenter=true&width=800&lines=Ezequiel+Abrego;Data+Engineer+%7C+Software+Engineer+%7C+UX%2FUI+Designer;You+were+not+supposed+to+find+this+page...;🐙)
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Data+Engineer+from+Panama;Building+systems+that+outlive+their+makers;The+abyss+stares+back...)
--->
-## 📜 The Necronomicon
+</div>
 
+## 📜 The Book of Ezequiel
+**SUBJECT:** Ezequiel Abrego  
+**TITLES:** Engineer ~~Summoner, Abyss Watcher~~   
+**STATUS:** `[CLASSIFIED BY MISKATONIC UNIVERSITY]`  
+**SUMMARY:**  
 Data Engineer, Software Engineer and UX/UI Designer from **Panama**. My goal is simple: make people's lives easier.
  
 - 🕯️ Data Engineer at **Procter & Gamble**, building media data pipelines across Latin America.
-- 🌊 Co-founder of **Grupo Meca Tech**, where I built an auto-parts ERP from scratch.
-- 🗝️ Ask me about: data engineering on GCP, UX/UI, design thinking.
-- 🌑 Currently exploring: `R E D A C T E D`
----
+- 🌊 Co-founder of **Grupo Meca Tech**, where I built an ERP from scratch.
+- 🗝️ Ask me about: data engineering on GCP, design thinking, stocks, my thoughts on anything.
+- 🌑 Currently exploring: `[REDACTED]`
+
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
+
 
 ## 🗡️ Cursed Artifacts
 
@@ -28,22 +31,6 @@ Data Engineer, Software Engineer and UX/UI Designer from **Panama**. My goal is 
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
 
-
-## 📕 Forbidden Knowledge
-> *Knowledge that was never meant to be exposed.* *Sanity not included.*
-
-| Circle | Arcane Arts |
-|---|---|
-| 🌑 **Data Engineering** | ETL/ELT Pipelines, Data Modeling, Apache Airflow, Apache Kafka, Apache Spark, Data Warehouses/Lakes/Lakehouses, Data Management, SQL & NoSQL Database Management. |
-| ☁️ **Cloud & Infrastructure** | Google Cloud Platform Professional Data Engineer, Terraform (IaC), CI/CD, Release Engineering, Data Governance, Azure/AWS. |
-| 🎨 **UX/UI Design** | Design Thinking, UI/UX Prototyping, User Interface Design, User Experience Research and Design, Storytelling, Human-Computer Interaction. |
-| 🛡️ **Reliability & Operations** | Software Reliability Engineering, Incident Management, Postmortems, Monitoring and Alerting.  |
-| 🤖 **AI & Agentic Engineering** | Agentic AI, AI-Assisted Development w/Claude Code & GitHub Copilot, AI Skills Design, AI Frameworks (BMAD, **▓▓▓▓▓**)  |
-| 🏛️ **Software Engineering** | E2E SDLC, C# .NET, Python, SQL, REST APIs, JavaScript, System and ERP Architecture, Linux. |
-| 📐 **Methods** | Requirements Engineering, Agile Development, Scrum, Kanban, LEAN Startup. |
-
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
-
 ## 🔱 Eldritch Sigils
 > *Every sign was earned. Every ward holds.*
 
@@ -53,6 +40,23 @@ Data Engineer, Software Engineer and UX/UI Designer from **Panama**. My goal is 
 - [Verify on Credly](https://www.credly.com/badges/22d69d4b-2977-4ff2-bb12-2418a04c8048/public_url)
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
+
+
+## 📕 Forbidden Knowledge
+> *Knowledge that was never meant to be exposed.* *Sanity not included.*
+
+| Circle | Arcane Arts |
+|---|---|
+| 🌑 **Data Engineering** | ETL/ELT Pipelines, Data Modeling, Apache Airflow, Apache Kafka, Apache Spark, Data Warehouses/Lakes/Lakehouses, Data Management, SQL & NoSQL Database Management. |
+| ☁️ **Cloud & Infrastructure** | Google Cloud Platform, Terraform (IaC), CI/CD, Release Engineering, Data Governance, Azure/AWS. |
+| 🎨 **UX/UI Design** | Design Thinking, UI/UX Prototyping, User Interface Design, User Experience Research and Design, Storytelling, Human-Computer Interaction. |
+| 🛡️ **Reliability & Operations** | Software Reliability Engineering, Incident Management, Postmortems, Monitoring and Alerting.  |
+| 🤖 **AI & Agentic Engineering** | Agentic AI, AI-Assisted Development w/Claude Code & GitHub Copilot, AI Skills Design, AI Frameworks (BMAD, **▓▓▓▓▓**)  |
+| 🏛️ **Software Engineering** | E2E SDLC, C# .NET, Python, SQL, REST APIs, JavaScript, System and ERP Architecture, Linux. |
+| 📐 **Methods** | Requirements Engineering, Agile Development, Scrum, Kanban, LEAN Startup. |
+
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
+
 
 ## 🔮 Establish Contact
 > *The veil is thin. Speak, and I may answer.*
