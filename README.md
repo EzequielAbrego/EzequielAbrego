@@ -55,18 +55,6 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
 
-## 👁️ The All-Seeing Eye
- 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=EzequielAbrego&show_icons=true&theme=dark&bg_color=0d1117&title_color=2e8b57&icon_color=2e8b57&text_color=c9d1d9&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAbrego&layout=compact&theme=dark&bg_color=0d1117&title_color=2e8b57&text_color=c9d1d9&hide_border=true)
-![Stats](https://github-readme-stats.vercel.app/api?username=EzequielAbrego&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=2e8b57&icon_color=2e8b57&text_color=c9d1d9&hide_border=true)
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
-
-
 ## 🔮 Establish Contact
 > *The veil is thin. Speak, and I may answer.*
 <div align="center">
