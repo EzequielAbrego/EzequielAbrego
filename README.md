@@ -5,8 +5,8 @@
 </div>
 
 ## 📜 The Book of Ezequiel
-**SUBJECT:** Ezequiel Abrego  
-**TITLES:** Engineer. ~~Summoner, Abyss Watcher~~   
+**SUBJECT:** Ezequiel Abrego.  
+**TITLES:**  Engineer. ~~Summoner, Abyss Watcher~~   
 **STATUS:** `[CLASSIFIED BY MISKATONIC UNIVERSITY]`  
 **SUMMARY:**  
 Data Engineer, Software Engineer and UX/UI Designer from **Panama**. My goal is simple: make people's lives easier.
@@ -15,6 +15,13 @@ Data Engineer, Software Engineer and UX/UI Designer from **Panama**. My goal is 
 - 🌊 Co-founder of **Grupo Meca Tech**, where I built an ERP from scratch.
 - 🗝️ Ask me about: data engineering on GCP, design thinking, stocks, my thoughts on anything.
 - 🌑 Currently exploring: `[REDACTED]`
+
+| 📁 **CASE FILE Nº 001** | **RESTRICTED SECTION** |
+|:---|:---|
+| **SUBJECT** | Ezequiel Abrego |
+| **TITLES** | Engineer.  ~~Summoner~~ ~~Abyss Watcher~~ |
+| **STATUS** | `[CLASSIFIED BY MISKATONIC UNIVERSITY]` |
+| **SUMMARY** | Data Engineer, Software Engineer and UX/UI Designer from **Panama**. My goal is simple: make people's lives easier.<br><br>🕯️ Data Engineer at **Procter & Gamble**, building media data pipelines across Latin America.<br>🌊 Co-founder of **Grupo Meca Tech**, where I built an ERP from scratch.<br>🗝️ Ask me about: data engineering on GCP, design thinking, stocks, my thoughts on anything.<br>🌑 Currently exploring: `[REDACTED]` |
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
 
