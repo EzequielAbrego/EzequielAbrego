@@ -7,21 +7,23 @@
 ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Data+Engineer+from+Panama;Building+systems+that+outlive+their+makers;The+abyss+stares+back...)
 -->
 ## 📕 Forbidden Knowledge
- 
+> *Knowledge that was never meant to be shared.* *Read at your own risk.*
+
 | Circle | Arcane Arts |
 |---|---|
-| 🌑 **Data Engineering** | ETL/ELT Pipelines, Data Modeling, Apache Airflow, Apache Kafka, Apache Spark, Data Warehouses/Lakes/Lakehouses, Data Management, SQL & NoSQL Database Management |
-| ☁️ **Cloud & Infrastructure** | Google Cloud Platform Professional Data Engineer, Terraform (IaC), CI/CD, Release Engineering, Data governance, Azure/AWS |
-| 🎨 **UX/UI Design** | Design Thinking, UI/UX prototyping, Human-Computer Interaction, Nielse's Heuristics, turning stakeholder requirements into working products |
-| 🛡️ **Reliability & Operations** | Incident response, root cause analysis, postmortems, monitoring and alerting, hotfixes, feature flags |
-| 🤖 **AI & Agentic Engineering** | Agentic AI, AI-assisted development (Claude Code, Copilot), neural networks and deep learning |
-| 🏛️ **Software Engineering** | Python, SQL, PostgreSQL, C# / .NET, REST APIs, React, JavaScript, system and ERP architecture, Linux |
-| 📐 **Methods** | Agile, Scrum, Kanban, requirements engineering |
- 
----
+| 🌑 **Data Engineering** | ETL/ELT Pipelines, Data Modeling, Apache Airflow, Apache Kafka, Apache Spark, Data Warehouses/Lakes/Lakehouses, Data Management, SQL & NoSQL Database Management. |
+| ☁️ **Cloud & Infrastructure** | Google Cloud Platform Professional Data Engineer, Terraform (IaC), CI/CD, Release Engineering, Data Governance, Azure/AWS. |
+| 🎨 **UX/UI Design** | Design Thinking, UI/UX Prototyping, User Interface Design, User Experience Research and Design, Storytelling, Human-Computer Interaction. |
+| 🛡️ **Reliability & Operations** | Software Reliability Engineering, Incident Management, Postmortems, Monitoring and Alerting.  |
+| 🤖 **AI & Agentic Engineering** | Agentic AI, AI-Assisted Development w/Claude Code & GitHub Copilot, AI Skills Design, AI Frameworks (BMAD, **▓▓▓▓▓**)  |
+| 🏛️ **Software Engineering** | E2E SDLC, C# .NET, Python, SQL, REST APIs, JavaScript, System and ERP Architecture, Linux. |
+| 📐 **Methods** | Requirements Engineering, Agile Development, Scrum, Kanban, LEAN Startup. |
 
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
 
 ## 🔱 Eldritch Sigils
+> *Every sign was earned. Every ward holds.*
+
 <img width="195" height="195" alt="professional-data-engineer-certification" src="https://github.com/user-attachments/assets/c9a609d6-0b3b-4bec-b133-476659817fc2" />
 <img width="195" height="195" alt="ux-basic" src="https://github.com/user-attachments/assets/783ef2a9-d574-4813-b6c5-8520f2fa575a" />
 
