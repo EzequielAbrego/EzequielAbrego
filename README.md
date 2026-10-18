@@ -6,7 +6,7 @@
 
 ## 📜 The Book of Ezequiel
 **SUBJECT:** Ezequiel Abrego  
-**TITLES:** Engineer ~~Summoner, Abyss Watcher~~   
+**TITLES:** Engineer. ~~Summoner, Abyss Watcher~~   
 **STATUS:** `[CLASSIFIED BY MISKATONIC UNIVERSITY]`  
 **SUMMARY:**  
 Data Engineer, Software Engineer and UX/UI Designer from **Panama**. My goal is simple: make people's lives easier.
