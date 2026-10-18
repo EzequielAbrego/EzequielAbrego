@@ -1,30 +1,19 @@
 <div align="center">
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=1500&color=C9D1D9&center=true&vCenter=true&width=800&lines=Ezequiel+Abrego;Data+Engineer+%7C+Software+Engineer+%7C+UX%2FUI+Designer;You+were+not+supposed+to+find+this+page...;🐙)
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=1500&color=2E8B57&center=true&vCenter=true&width=800&lines=Ezequiel+Abrego;Data+Engineer+%7C+Software+Engineer+%7C+UX%2FUI+Designer;You+were+not+supposed+to+find+this+page...;🐙)
 
 </div>
 
 ## 📜 The Book of Ezequiel
-**SUBJECT:** Ezequiel Abrego.  
-**TITLES:**  Engineer. ~~Summoner, Abyss Watcher~~   
-**STATUS:** `[CLASSIFIED BY MISKATONIC UNIVERSITY]`  
-**SUMMARY:**  
-Data Engineer, Software Engineer and UX/UI Designer from **Panama**. My goal is simple: make people's lives easier.
- 
-- 🕯️ Data Engineer at **Procter & Gamble**, building media data pipelines across Latin America.
-- 🌊 Co-founder of **Grupo Meca Tech**, where I built an ERP from scratch.
-- 🗝️ Ask me about: data engineering on GCP, design thinking, stocks, my thoughts on anything.
-- 🌑 Currently exploring: `[REDACTED]`
 
-| 📁 **CASE FILE Nº 001** | **RESTRICTED SECTION** |
-|:---|:---|
+| 📁 **CASE FILE Nº 017** | **RESTRICTED SECTION** |
+|:------------------|:------|
 | **SUBJECT** | Ezequiel Abrego |
-| **TITLES** | Engineer.  ~~Summoner~~ ~~Abyss Watcher~~ |
+| **TITLES** | Engineer.  ~~*Summoner*~~ ~~*Abyss Watcher*~~ |
 | **STATUS** | `[CLASSIFIED BY MISKATONIC UNIVERSITY]` |
 | **SUMMARY** | Data Engineer, Software Engineer and UX/UI Designer from **Panama**. My goal is simple: make people's lives easier.<br><br>🕯️ Data Engineer at **Procter & Gamble**, building media data pipelines across Latin America.<br>🌊 Co-founder of **Grupo Meca Tech**, where I built an ERP from scratch.<br>🗝️ Ask me about: data engineering on GCP, design thinking, stocks, my thoughts on anything.<br>🌑 Currently exploring: `[REDACTED]` |
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
-
 
 ## 🗡️ Cursed Artifacts
 
@@ -85,30 +74,3 @@ Data Engineer, Software Engineer and UX/UI Designer from **Panama**. My goal is 
 *Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn* 🐙
 
 </div>
-
-
-<!--
-## 👁️ The All-Seeing Eye
- 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=EzequielAbrego&show_icons=true&theme=dark&bg_color=0d1117&title_color=2e8b57&icon_color=2e8b57&text_color=c9d1d9&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAbrego&layout=compact&theme=dark&bg_color=0d1117&title_color=2e8b57&text_color=c9d1d9&hide_border=true)
-![Stats](https://github-readme-stats.vercel.app/api?username=EzequielAbrego&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=2e8b57&icon_color=2e8b57&text_color=c9d1d9&hide_border=true)
- 
-</div>
-
-<!--
-**EzequielAbrego/EzequielAbrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
