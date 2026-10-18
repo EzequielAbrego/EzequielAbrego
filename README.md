@@ -29,11 +29,13 @@
 
 ## 🔱 Eldritch Sigils
 > *Every sign was earned. Every ward holds.*
-
+<div align="center">
 <img width="195" height="195" alt="professional-data-engineer-certification" src="https://github.com/user-attachments/assets/c9a609d6-0b3b-4bec-b133-476659817fc2" />
 <img width="195" height="195" alt="ux-basic" src="https://github.com/user-attachments/assets/783ef2a9-d574-4813-b6c5-8520f2fa575a" />
 
-- [Verify on Credly](https://www.credly.com/badges/22d69d4b-2977-4ff2-bb12-2418a04c8048/public_url)
+[Verify on Credly](https://www.credly.com/badges/22d69d4b-2977-4ff2-bb12-2418a04c8048/public_url)
+
+</div>
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
 
@@ -58,7 +60,7 @@
 > *The veil is thin. Speak, and I may answer.*
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=2e8b57)](https://www.linkedin.com/in/ezequiel-abrego/)
+[![-> LinkedIn <-](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=2e8b57)](https://www.linkedin.com/in/ezequiel-abrego/)
 </div>
 
 <div align="center">
