@@ -6,8 +6,31 @@
 
 ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Data+Engineer+from+Panama;Building+systems+that+outlive+their+makers;The+abyss+stares+back...)
 -->
+## 📜 The Necronomicon
+
+Data Engineer, Software Engineer and UX/UI Designer from **Panama**. My goal is simple: make people's lives easier.
+ 
+- 🕯️ Data Engineer at **Procter & Gamble**, building media data pipelines across Latin America.
+- 🌊 Co-founder of **Grupo Meca Tech**, where I built an auto-parts ERP from scratch.
+- 🗝️ Ask me about: data engineering on GCP, UX/UI, design thinking.
+- 🌑 Currently exploring: `R E D A C T E D`
+---
+
+## 🗡️ Cursed Artifacts
+
+> *Each one has a price. I paid it.*
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,gcp,terraform,py,postgres,git,azure,aws,js&theme=dark&perline=5)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
+
+
 ## 📕 Forbidden Knowledge
-> *Knowledge that was never meant to be shared.* *Read at your own risk.*
+> *Knowledge that was never meant to be exposed.* *Sanity not included.*
 
 | Circle | Arcane Arts |
 |---|---|
@@ -42,6 +65,26 @@
 
 𓆙 ⠀⠀ ✦ ⠀⠀ 🐙 ⠀⠀ ✦ ⠀⠀ 𓆙
 
+</div>
+
+<div align="center">
+
+![closing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=2E8B57&center=true&vCenter=true&width=800&lines=There+is+more+to+me+than+what+is+written+here...;Some+things+are+not+meant+to+be+documented.;The+rest+waits+beyond+the+veil.)
+
+*Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn* 🐙
+
+</div>
+
+
+<!--
+## 👁️ The All-Seeing Eye
+ 
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=EzequielAbrego&show_icons=true&theme=dark&bg_color=0d1117&title_color=2e8b57&icon_color=2e8b57&text_color=c9d1d9&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielAbrego&layout=compact&theme=dark&bg_color=0d1117&title_color=2e8b57&text_color=c9d1d9&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=EzequielAbrego&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117&title_color=2e8b57&icon_color=2e8b57&text_color=c9d1d9&hide_border=true)
+ 
 </div>
 
 <!--
