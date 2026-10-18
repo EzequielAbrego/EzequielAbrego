@@ -10,6 +10,13 @@
 
 - [Verify on Credly](https://www.credly.com/badges/22d69d4b-2977-4ff2-bb12-2418a04c8048/public_url)
 
+### 🔮 Establish Contact
+> *The veil is thin. Speak, and I may answer.*
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=2e8b57)](https://www.linkedin.com/in/ezequiel-abrego/)
+</div>
+
 <!--
 **EzequielAbrego/EzequielAbrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
