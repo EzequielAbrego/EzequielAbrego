@@ -46,10 +46,9 @@
 | Circle | Arcane Arts |
 |---|---|
 | 🌑 **Data Engineering** | ETL/ELT Pipelines, Data Modeling, Apache Airflow, Apache Kafka, Apache Spark, Data Warehouses/Lakes/Lakehouses, Data Management, SQL & NoSQL Database Management. |
-| ☁️ **Cloud & Infrastructure** | Google Cloud Platform, Terraform (IaC), CI/CD, Release Engineering, Data Governance, Azure/AWS. |
+| ☁️ **Cloud Computing & Ops** | Google Cloud Platform, Terraform (IaC), CI/CD, Release Engineering, GitHub Actions, Azure/AWS, SRE, Incident Management, Monitoring and Alerting, Microservices. |
 | 🎨 **UX/UI Design** | Design Thinking, UI/UX Prototyping, User Interface Design, User Experience Research and Design, Storytelling, Human-Computer Interaction. |
-| 🛡️ **Reliability & Operations** | Software Reliability Engineering, Incident Management, Postmortems, Monitoring and Alerting.  |
-| 🤖 **AI & Agentic Engineering** | Agentic AI, AI-Assisted Development w/Claude Code & GitHub Copilot, AI Skills Design, AI Frameworks (BMAD, **▓▓▓▓▓**)  |
+| 🤖 **AI & Agentic Engineering** | Agentic AI (Skills, MCP, Agents), AI Development (Claude Code & Copilot), AI Frameworks (BMAD, **▓▓▓▓▓**)  |
 | 🏛️ **Software Engineering** | Requirements Engineering, E2E SDLC, C# .NET, Python, SQL, REST APIs, JavaScript, System and ERP Architecture, Linux, Agile Methodologies, Code Review. |
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
