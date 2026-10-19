@@ -51,7 +51,7 @@
 | 🛡️ **Reliability & Operations** | Software Reliability Engineering, Incident Management, Postmortems, Monitoring and Alerting.  |
 | 🤖 **AI & Agentic Engineering** | Agentic AI, AI-Assisted Development w/Claude Code & GitHub Copilot, AI Skills Design, AI Frameworks (BMAD, **▓▓▓▓▓**)  |
 | 🏛️ **Software Engineering** | E2E SDLC, C# .NET, Python, SQL, REST APIs, JavaScript, System and ERP Architecture, Linux. |
-| 📐 **Methods** | Requirements Engineering, Agile Development, Scrum, Kanban, LEAN Startup. |
+| 📐 **Methods** | Requirements Engineering, Agile Methodologies (Scrum, Kanban, LEAN Startup). |
 
 ![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2e8b57&height=60&section=footer)
 
