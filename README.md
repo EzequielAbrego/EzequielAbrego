@@ -9,7 +9,7 @@
 | 📁 **CASE FILE Nº 017** | **RESTRICTED SECTION** |
 |:------------------|:------|
 | **SUBJECT** | Ezequiel Abrego |
-| **TITLES** | Engineer.  ~~*Summoner*~~ ~~*Abyss Watcher*~~ |
+| **TITLES** | Engineer. ~~*<Summoner* , *Abyss Watcher>*~~ |
 | **STATUS** | `[CLASSIFIED]` |
 | **SUMMARY** | Data Engineer, Software Engineer and UX/UI Designer from **Panama**. My goal is simple: make people's lives easier.<br><br>🕯️ Data Engineer at **Procter & Gamble**, building media data pipelines across Latin America.<br>🌊 Co-founder of **Grupo Meca Tech**, where I built an ERP from scratch.<br>🗝️ Ask me about: data engineering on GCP, design thinking, stocks, my thoughts on anything.<br>🌑 Currently exploring: `[REDACTED]` |
 
